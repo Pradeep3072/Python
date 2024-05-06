@@ -10,7 +10,7 @@ for i in li:
 for i in v:
     print(i)"""
 
-#seperate chaining in linear probing
+#seperate chaining in linked list
 
 """class Node:
     def __init__(self, data=None):
